@@ -197,6 +197,16 @@ Here is a list of some of the most popular Ethereum node providers, feel free to
     - NFT data and analytics API
     - [SOC2 Certified](https://www.quicknode.com/security)
     - Suitable for Developers to Enterprises
+- [**SenseiNode**](https://senseinode.com/)
+  - [Docs](https://github.com/Sensei-Node)
+  - Features
+    - Latin America geolocated nodes
+    - Open access to Public RPC API endpoints for several chains
+    - Load balancing and node health monitoring
+    - Scale as you go
+    - Analytics tools
+    - Dashboard
+    - Direct support (Spanish & Portuguese available)
 - [**Rivet**](https://rivet.cloud/)
   - [Docs](https://rivet.readthedocs.io/en/latest/)
   - Features
